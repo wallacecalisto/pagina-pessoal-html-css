@@ -1,5 +1,7 @@
 # 🌐 Página Pessoal - Primeiro Contato com Web Dev
 
+Visite o site do projeto: https://wallacecalisto.github.io/pagina-pessoal-html-css/
+
 Este foi o meu primeiríssimo projeto acadêmico focado em desenvolvimento Web, realizado durante o 1º período da faculdade de Ciência da Computação pela Veiga de Almeida. O objetivo principal do projeto foi fixar os conceitos iniciais e estruturais das tecnologias base da internet.
 
 ### 🛠️ Tecnologias Utilizadas
